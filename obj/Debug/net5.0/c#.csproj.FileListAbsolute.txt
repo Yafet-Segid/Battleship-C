@@ -1,0 +1,15 @@
+/Users/yafetsegid/Desktop/c#/bin/Debug/net5.0/c#.deps.json
+/Users/yafetsegid/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/Users/yafetsegid/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/Users/yafetsegid/Desktop/c#/bin/Debug/net5.0/c#.dll
+/Users/yafetsegid/Desktop/c#/bin/Debug/net5.0/ref/c#.dll
+/Users/yafetsegid/Desktop/c#/bin/Debug/net5.0/c#.pdb
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.dll
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/ref/c#.dll
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.pdb
+/Users/yafetsegid/Desktop/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
