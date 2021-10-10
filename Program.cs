@@ -117,6 +117,7 @@ namespace c_
         }
         public void Randomize()
         {
+            // test 
  
             Random r = new Random(2);
             //
