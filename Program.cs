@@ -38,8 +38,6 @@ namespace c_
             int x = 0;
             int y = 0;
             
-
-
             public int getHitCount()
             {
                  return Hitcount;
